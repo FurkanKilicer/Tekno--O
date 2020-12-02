@@ -162,6 +162,42 @@
 
 
 /* Media Quaries */
+@media only screen and (min-width: 300px) and (max-width : 425px) {
+    .mrgn {
+        margin-top: 2%;
+    }
+
+    .design {
+        position: absolute;
+        bottom: -405%;
+    }
+
+    .nurse {
+        position: absolute;
+        left: 32%;
+    }
+
+    .change2 {
+        position: absolute;
+        bottom: -525%;
+        max-width: 100%;
+    }
+
+    .small-db {
+        margin-top: 11%;
+    }
+
+    .small-device {
+        margin-left: -15%;
+    }
+
+    .margin-x {
+        margin-left: -5%;
+    }
+}
+
+
+
 @media only screen and (min-width: 374px) and (max-width : 426px) {
 
     .lorem-margin {
